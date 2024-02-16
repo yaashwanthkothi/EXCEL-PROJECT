@@ -11,4 +11,4 @@ Several situations are taken to create the report.
   6.Relations between age and gender according to sales.
   7.orders throughh sales.
 
-  To solve above tasks ,used basic excel topics to advanced like pivot table.
+  To solve above tasks ,used basic excel topics to advanced like pivot table and slicers.
